@@ -1,0 +1,18 @@
+.st-services-list li {
+	cursor: move;
+	background: #fafafa;
+	padding: 10px;
+	border: 1px solid #e5e5e5;
+	margin-bottom: 10px;
+}
+.st-services-list li p {
+	margin: 0;
+}
+.st-services-list li label {
+	margin-bottom: 3px;
+	display: block;
+	color: #222;
+}
+.st-services-list .placeholder {
+	border: 1px dashed #e3e3e3;
+}

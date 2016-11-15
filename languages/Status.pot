@@ -1,0 +1,1791 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Status WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-04 21:47-0800\n"
+"PO-Revision-Date: 2016-07-04 21:47-0800\n"
+"Last-Translator: AJ Clarke <stplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: esc_html_e;gettext;gettext_noop;__;_e;_n;_nx;"
+"esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../comments.php:35
+msgid "This Post Has One Comment"
+msgstr ""
+
+#: ../comments.php:37
+#, php-format
+msgid "This Post Has %s Comments"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:63
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:81
+msgid "Comments are now closed."
+msgstr ""
+
+#: ../functions.php:170 ../inc/customizer-config.php:270
+#: ../inc/customizer-config.php:1562
+msgid "Topbar"
+msgstr ""
+
+#: ../functions.php:171 ../inc/customizer-config.php:1526
+msgid "Main"
+msgstr ""
+
+#: ../functions.php:172
+msgid "Mobile Alternative"
+msgstr ""
+
+#: ../functions.php:333 ../inc/customizer-config.php:931
+#: ../inc/customizer-config.php:1693
+msgid "Menu"
+msgstr ""
+
+#: ../functions.php:387
+msgid "Sidebar - Main"
+msgstr ""
+
+#: ../functions.php:397
+msgid "Sidebar - Pages"
+msgstr ""
+
+#: ../functions.php:407
+msgid "Instagram Footer"
+msgstr ""
+
+#: ../functions.php:413
+msgid ""
+"Drag the Instagram widget into this area for a full-width instagram grid "
+"before your site footer."
+msgstr ""
+
+#: ../functions.php:423
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions.php:437
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions.php:451
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions.php:465
+msgid "Footer 4"
+msgstr ""
+
+#: ../functions.php:592
+msgid "Featured Image"
+msgstr ""
+
+#: ../functions.php:683
+msgid "Highlight"
+msgstr ""
+
+#: ../functions.php:688 ../inc/customizer-config.php:1027
+msgid "Buttons"
+msgstr ""
+
+#: ../functions.php:691 ../functions.php:736 ../inc/core-functions.php:79
+#: ../inc/customizer-config.php:22 ../inc/customizer-config.php:31
+#: ../inc/customizer-config.php:45 ../inc/customizer-config.php:53
+#: ../inc/customizer-config.php:1188 ../inc/customizer-config.php:1270
+#: ../inc/customizer-config.php:1417 ../inc/customizer-config.php:1499
+#: ../inc/meta-pages.php:68 ../inc/meta-posts.php:65
+#: ../inc/classes/customizer/controls.php:13
+msgid "Default"
+msgstr ""
+
+#: ../functions.php:696 ../inc/customizer-config.php:36
+msgid "Red"
+msgstr ""
+
+#: ../functions.php:701 ../inc/customizer-config.php:32
+msgid "Green"
+msgstr ""
+
+#: ../functions.php:706 ../inc/customizer-config.php:34
+msgid "Blue"
+msgstr ""
+
+#: ../functions.php:711 ../inc/customizer-config.php:33
+msgid "Orange"
+msgstr ""
+
+#: ../functions.php:716
+msgid "Black"
+msgstr ""
+
+#: ../functions.php:721
+msgid "White"
+msgstr ""
+
+#: ../functions.php:726
+msgid "Clean"
+msgstr ""
+
+#: ../functions.php:733
+msgid "Notices"
+msgstr ""
+
+#: ../functions.php:741
+msgid "Info"
+msgstr ""
+
+#: ../functions.php:746
+msgid "Warning"
+msgstr ""
+
+#: ../functions.php:751
+msgid "Success"
+msgstr ""
+
+#: ../searchform.php:13 ../partials/header/header-nav.php:31
+#: ../partials/header/header-search.php:21
+msgid "Search"
+msgstr ""
+
+#: ../inc/core-functions.php:50
+msgid "Featured Entry"
+msgstr ""
+
+#: ../inc/core-functions.php:51
+msgid "Grid Entries"
+msgstr ""
+
+#: ../inc/core-functions.php:52
+msgid "Left/Right Entries"
+msgstr ""
+
+#: ../inc/core-functions.php:53
+msgid "Fullwidth Entries"
+msgstr ""
+
+#: ../inc/core-functions.php:54
+msgid "Related Entries"
+msgstr ""
+
+#: ../inc/core-functions.php:55
+msgid "Single Post"
+msgstr ""
+
+#: ../inc/core-functions.php:80
+msgid "Top Left"
+msgstr ""
+
+#: ../inc/core-functions.php:81
+msgid "Top Right"
+msgstr ""
+
+#: ../inc/core-functions.php:82
+msgid "Top Center"
+msgstr ""
+
+#: ../inc/core-functions.php:83
+msgid "Center Left"
+msgstr ""
+
+#: ../inc/core-functions.php:84
+msgid "Center Right"
+msgstr ""
+
+#: ../inc/core-functions.php:85
+msgid "Center Center"
+msgstr ""
+
+#: ../inc/core-functions.php:86
+msgid "Bottom Left"
+msgstr ""
+
+#: ../inc/core-functions.php:87
+msgid "Bottom Right"
+msgstr ""
+
+#: ../inc/core-functions.php:88
+msgid "Bottom Center"
+msgstr ""
+
+#: ../inc/core-functions.php:476
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/core-functions.php:502
+msgid "Reply"
+msgstr ""
+
+#: ../inc/core-functions.php:510
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/core-functions.php:519
+msgid "Edit"
+msgstr ""
+
+#: ../inc/core-functions.php:565
+msgid "read more"
+msgstr ""
+
+#: ../inc/core-functions.php:974 ../inc/classes/widgets/contact-info.php:176
+#: ../inc/classes/widgets/social.php:109
+msgid "Email"
+msgstr ""
+
+#: ../inc/core-functions.php:978
+msgid "RSS"
+msgstr ""
+
+#: ../inc/customizer-config.php:35
+msgid "Navy"
+msgstr ""
+
+#: ../inc/customizer-config.php:37
+msgid "Purple"
+msgstr ""
+
+#: ../inc/customizer-config.php:38
+msgid "Teal"
+msgstr ""
+
+#: ../inc/customizer-config.php:39
+msgid "Turquoise"
+msgstr ""
+
+#: ../inc/customizer-config.php:40
+msgid "Gray"
+msgstr ""
+
+#: ../inc/customizer-config.php:46 ../inc/meta-pages.php:69
+#: ../inc/meta-posts.php:66
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/customizer-config.php:47 ../inc/meta-pages.php:70
+#: ../inc/meta-posts.php:67
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/customizer-config.php:48 ../inc/meta-pages.php:71
+#: ../inc/meta-posts.php:68
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/customizer-config.php:80
+msgid "General Theme Settings"
+msgstr ""
+
+#: ../inc/customizer-config.php:87
+msgid "Meta Settings"
+msgstr ""
+
+#: ../inc/customizer-config.php:92
+msgid "Meta Prefix"
+msgstr ""
+
+#: ../inc/customizer-config.php:94
+msgid ""
+"Enter a prefix for your old meta options if you are switching from another "
+"WPExplorer theme and wish to keep your pre-defined videos, audio, ratings, "
+"etc. An example value may be wpex_"
+msgstr ""
+
+#: ../inc/customizer-config.php:103
+msgid "Site Widths"
+msgstr ""
+
+#: ../inc/customizer-config.php:108
+msgid "Container Width"
+msgstr ""
+
+#: ../inc/customizer-config.php:110 ../inc/customizer-config.php:119
+#: ../inc/customizer-config.php:127 ../inc/customizer-config.php:135
+msgid "Default:"
+msgstr ""
+
+#: ../inc/customizer-config.php:116
+msgid "Container Max Width Percent"
+msgstr ""
+
+#: ../inc/customizer-config.php:125
+msgid "Content Area Width"
+msgstr ""
+
+#: ../inc/customizer-config.php:133
+msgid "Sidebar Width"
+msgstr ""
+
+#: ../inc/customizer-config.php:144
+msgid "Layouts"
+msgstr ""
+
+#: ../inc/customizer-config.php:149
+msgid "Homepage Layout"
+msgstr ""
+
+#: ../inc/customizer-config.php:157
+msgid "Archives Layout"
+msgstr ""
+
+#: ../inc/customizer-config.php:160
+msgid "Categories, tags, author...etc"
+msgstr ""
+
+#: ../inc/customizer-config.php:167
+msgid "Search Layout"
+msgstr ""
+
+#: ../inc/customizer-config.php:175
+msgid "Post Layout"
+msgstr ""
+
+#: ../inc/customizer-config.php:183
+msgid "Page Layout"
+msgstr ""
+
+#: ../inc/customizer-config.php:194
+msgid "Responsiveness"
+msgstr ""
+
+#: ../inc/customizer-config.php:200 ../inc/customizer-config.php:327
+msgid "Enable"
+msgstr ""
+
+#: ../inc/customizer-config.php:207
+msgid "Main Menu Mobile Toggle Text"
+msgstr ""
+
+#: ../inc/customizer-config.php:218 ../inc/customizer-config.php:634
+#: ../inc/customizer-config.php:1632
+msgid "Header"
+msgstr ""
+
+#: ../inc/customizer-config.php:224
+msgid "Display description?"
+msgstr ""
+
+#: ../inc/customizer-config.php:231
+msgid "Logo Top Padding"
+msgstr ""
+
+#: ../inc/customizer-config.php:242
+msgid "Custom Logo"
+msgstr ""
+
+#: ../inc/customizer-config.php:249
+msgid "Custom Retina Logo"
+msgstr ""
+
+#: ../inc/customizer-config.php:256
+msgid "Standard Logo Height"
+msgstr ""
+
+#: ../inc/customizer-config.php:257
+msgid ""
+"Enter the standard height for your logo. Used to set your retina logo to the "
+"correct dimensions"
+msgstr ""
+
+#: ../inc/customizer-config.php:271
+msgid "Enter the full URL to your social media profile."
+msgstr ""
+
+#: ../inc/customizer-config.php:277
+msgid "Enable Topbar"
+msgstr ""
+
+#: ../inc/customizer-config.php:288
+msgid "Enable Social"
+msgstr ""
+
+#: ../inc/customizer-config.php:297
+msgid "Open Social Links In New Tab?"
+msgstr ""
+
+#: ../inc/customizer-config.php:308
+msgid "URL"
+msgstr ""
+
+#: ../inc/customizer-config.php:321
+msgid "Trending/Breadcrumbs Bar"
+msgstr ""
+
+#: ../inc/customizer-config.php:334
+msgid "Label"
+msgstr ""
+
+#: ../inc/customizer-config.php:342
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../inc/customizer-config.php:344
+msgid ""
+"When enabled it will override the trending bar everywhere except the "
+"homepage. You must have the WordPress SEO by Yoast plugin active in order to "
+"display breadcrumbs."
+msgstr ""
+
+#: ../inc/customizer-config.php:351
+msgid "Enable Random Post Link"
+msgstr ""
+
+#: ../inc/customizer-config.php:358
+msgid "Random Post Link text"
+msgstr ""
+
+#: ../inc/customizer-config.php:368
+msgid "Entries"
+msgstr ""
+
+#: ../inc/customizer-config.php:374
+msgid "Display First Post Large?"
+msgstr ""
+
+#: ../inc/customizer-config.php:382
+msgid "Pagination Style"
+msgstr ""
+
+#: ../inc/customizer-config.php:385
+msgid "Numbered"
+msgstr ""
+
+#: ../inc/customizer-config.php:386
+msgid "Next/Prev Links"
+msgstr ""
+
+#: ../inc/customizer-config.php:394
+msgid "Entry Style"
+msgstr ""
+
+#: ../inc/customizer-config.php:397
+msgid "Grid"
+msgstr ""
+
+#: ../inc/customizer-config.php:398
+msgid "Full Thumbnail"
+msgstr ""
+
+#: ../inc/customizer-config.php:399
+msgid "Left Thumbnail & Right Content"
+msgstr ""
+
+#: ../inc/customizer-config.php:407
+msgid "Grid Columns"
+msgstr ""
+
+#: ../inc/customizer-config.php:422
+msgid "Entry Displays?"
+msgstr ""
+
+#: ../inc/customizer-config.php:425
+msgid "Custom Excerpt"
+msgstr ""
+
+#: ../inc/customizer-config.php:426
+msgid "Full Content"
+msgstr ""
+
+#: ../inc/customizer-config.php:434
+msgid "Entry Excerpt Length"
+msgstr ""
+
+#: ../inc/customizer-config.php:436
+msgid "How many words to display per excerpt"
+msgstr ""
+
+#: ../inc/customizer-config.php:444
+msgid "Entry Thumbnail"
+msgstr ""
+
+#: ../inc/customizer-config.php:451
+msgid "Entry Embeds"
+msgstr ""
+
+#: ../inc/customizer-config.php:453
+msgid ""
+"Display's your video/audio embed on the homepage and archives instead of the "
+"featured image."
+msgstr ""
+
+#: ../inc/customizer-config.php:460
+msgid "Entry Category Tag"
+msgstr ""
+
+#: ../inc/customizer-config.php:468 ../inc/customizer-config.php:508
+msgid "Display First Category Only"
+msgstr ""
+
+#: ../inc/customizer-config.php:476
+msgid "Entry Meta"
+msgstr ""
+
+#: ../inc/customizer-config.php:486
+msgid "Posts"
+msgstr ""
+
+#: ../inc/customizer-config.php:492
+msgid "Post Thumbnail"
+msgstr ""
+
+#: ../inc/customizer-config.php:500
+msgid "Post Category Tag"
+msgstr ""
+
+#: ../inc/customizer-config.php:516
+msgid "Post Meta"
+msgstr ""
+
+#: ../inc/customizer-config.php:524
+msgid "Post Tags"
+msgstr ""
+
+#: ../inc/customizer-config.php:532
+msgid "Post Social Share"
+msgstr ""
+
+#: ../inc/customizer-config.php:540
+msgid "Post Author Box"
+msgstr ""
+
+#: ../inc/customizer-config.php:548
+msgid "Post Next/Previous"
+msgstr ""
+
+#: ../inc/customizer-config.php:556
+msgid "Post Related"
+msgstr ""
+
+#: ../inc/customizer-config.php:564
+msgid "Relate Posts by"
+msgstr ""
+
+#: ../inc/customizer-config.php:567
+msgid "Tags"
+msgstr ""
+
+#: ../inc/customizer-config.php:568
+#: ../inc/classes/widgets/popular-posts.php:188
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:227
+msgid "Category"
+msgstr ""
+
+#: ../inc/customizer-config.php:569
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:212
+#: ../partials/global/breadcrumbs.php:28 ../partials/global/trending.php:63
+msgid "Random"
+msgstr ""
+
+#: ../inc/customizer-config.php:577
+msgid "Post Related: Heading"
+msgstr ""
+
+#: ../inc/customizer-config.php:586
+msgid "Post Related: Count"
+msgstr ""
+
+#: ../inc/customizer-config.php:597 ../inc/customizer-config.php:690
+#: ../inc/customizer-config.php:1891
+msgid "Footer"
+msgstr ""
+
+#: ../inc/customizer-config.php:603
+msgid "Footer Widgets Columns"
+msgstr ""
+
+#: ../inc/customizer-config.php:606
+msgid "None - Disable"
+msgstr ""
+
+#: ../inc/customizer-config.php:618
+msgid "Footer Copyright"
+msgstr ""
+
+#: ../inc/customizer-config.php:628
+msgid "Advertisements"
+msgstr ""
+
+#: ../inc/customizer-config.php:632 ../inc/customizer-config.php:640
+#: ../inc/customizer-config.php:648 ../inc/customizer-config.php:656
+#: ../inc/customizer-config.php:664 ../inc/customizer-config.php:672
+#: ../inc/customizer-config.php:680 ../inc/customizer-config.php:688
+#: ../partials/ads/ad-archives-bottom.php:21
+#: ../partials/ads/ad-archives-bottom.php:26
+#: ../partials/ads/ad-archives-top.php:21
+#: ../partials/ads/ad-archives-top.php:26
+#: ../partials/ads/ad-footer-bottom.php:20 ../partials/ads/ad-header.php:20
+#: ../partials/ads/ad-single-bottom.php:20
+#: ../partials/ads/ad-single-top.php:20
+msgid "Banner"
+msgstr ""
+
+#: ../inc/customizer-config.php:642
+msgid "Homepage: Top"
+msgstr ""
+
+#: ../inc/customizer-config.php:650
+msgid "Homepage: Bottom"
+msgstr ""
+
+#: ../inc/customizer-config.php:658
+msgid "Archives: Top"
+msgstr ""
+
+#: ../inc/customizer-config.php:666
+msgid "Archives: Bottom"
+msgstr ""
+
+#: ../inc/customizer-config.php:674
+msgid "Post: Top"
+msgstr ""
+
+#: ../inc/customizer-config.php:682
+msgid "Post: Bottom"
+msgstr ""
+
+#: ../inc/customizer-config.php:700
+msgid "Discussion"
+msgstr ""
+
+#: ../inc/customizer-config.php:706
+msgid "Comments For Pages"
+msgstr ""
+
+#: ../inc/customizer-config.php:714
+msgid "Comments For Posts"
+msgstr ""
+
+#: ../inc/customizer-config.php:724
+msgid "Search Results"
+msgstr ""
+
+#: ../inc/customizer-config.php:730
+msgid "Search posts only."
+msgstr ""
+
+#: ../inc/customizer-config.php:740
+msgid "Authors Template"
+msgstr ""
+
+#: ../inc/customizer-config.php:745
+msgid "Join link."
+msgstr ""
+
+#: ../inc/customizer-config.php:746
+msgid "Select a page for your authors template join link."
+msgstr ""
+
+#: ../inc/customizer-config.php:753
+msgid "Join link text."
+msgstr ""
+
+#: ../inc/customizer-config.php:764
+msgid "Typography"
+msgstr ""
+
+#: ../inc/customizer-config.php:765
+msgid ""
+"It is highly recommended that you do NOT use more then a couple custom "
+"Google fonts on the site because it could greatly slow things down."
+msgstr ""
+
+#: ../inc/customizer-config.php:771
+msgid "Body"
+msgstr ""
+
+#: ../inc/customizer-config.php:777 ../inc/customizer-config.php:830
+#: ../inc/customizer-config.php:883 ../inc/customizer-config.php:936
+#: ../inc/customizer-config.php:990 ../inc/customizer-config.php:1032
+#: ../inc/customizer-config.php:1075 ../inc/customizer-config.php:1128
+#: ../inc/customizer-config.php:1210 ../inc/customizer-config.php:1292
+#: ../inc/customizer-config.php:1357 ../inc/customizer-config.php:1439
+msgid "Font Family"
+msgstr ""
+
+#: ../inc/customizer-config.php:788 ../inc/customizer-config.php:841
+#: ../inc/customizer-config.php:894 ../inc/customizer-config.php:947
+#: ../inc/customizer-config.php:1001 ../inc/customizer-config.php:1044
+#: ../inc/customizer-config.php:1086 ../inc/customizer-config.php:1139
+#: ../inc/customizer-config.php:1221 ../inc/customizer-config.php:1303
+#: ../inc/customizer-config.php:1368 ../inc/customizer-config.php:1450
+msgid "Font Weight"
+msgstr ""
+
+#: ../inc/customizer-config.php:800 ../inc/customizer-config.php:853
+#: ../inc/customizer-config.php:906 ../inc/customizer-config.php:959
+#: ../inc/customizer-config.php:1098 ../inc/customizer-config.php:1151
+#: ../inc/customizer-config.php:1233 ../inc/customizer-config.php:1315
+#: ../inc/customizer-config.php:1380 ../inc/customizer-config.php:1462
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/customizer-config.php:811 ../inc/customizer-config.php:864
+#: ../inc/customizer-config.php:917 ../inc/customizer-config.php:970
+#: ../inc/customizer-config.php:1013 ../inc/customizer-config.php:1056
+#: ../inc/customizer-config.php:1109 ../inc/customizer-config.php:1174
+#: ../inc/customizer-config.php:1256 ../inc/customizer-config.php:1338
+#: ../inc/customizer-config.php:1403 ../inc/customizer-config.php:1485
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../inc/customizer-config.php:825
+msgid "Topbar Menu"
+msgstr ""
+
+#: ../inc/customizer-config.php:878
+msgid "Logo"
+msgstr ""
+
+#: ../inc/customizer-config.php:984
+msgid "Headings"
+msgstr ""
+
+#: ../inc/customizer-config.php:1070
+msgid "Category Tag"
+msgstr ""
+
+#: ../inc/customizer-config.php:1123
+msgid "Entry Title"
+msgstr ""
+
+#: ../inc/customizer-config.php:1162 ../inc/customizer-config.php:1244
+#: ../inc/customizer-config.php:1326
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1185 ../inc/customizer-config.php:1267
+#: ../inc/customizer-config.php:1414 ../inc/customizer-config.php:1496
+msgid "Text Transform"
+msgstr ""
+
+#: ../inc/customizer-config.php:1189 ../inc/customizer-config.php:1271
+#: ../inc/customizer-config.php:1418 ../inc/customizer-config.php:1500
+#: ../inc/classes/widgets/authors.php:229
+msgid "None"
+msgstr ""
+
+#: ../inc/customizer-config.php:1190 ../inc/customizer-config.php:1272
+#: ../inc/customizer-config.php:1419 ../inc/customizer-config.php:1501
+msgid "Uppercase"
+msgstr ""
+
+#: ../inc/customizer-config.php:1191 ../inc/customizer-config.php:1273
+#: ../inc/customizer-config.php:1420 ../inc/customizer-config.php:1502
+msgid "Lowercase"
+msgstr ""
+
+#: ../inc/customizer-config.php:1205
+msgid "Post Title"
+msgstr ""
+
+#: ../inc/customizer-config.php:1287
+msgid "Main Content"
+msgstr ""
+
+#: ../inc/customizer-config.php:1352
+msgid "Sidebar Widget Titles"
+msgstr ""
+
+#: ../inc/customizer-config.php:1391 ../inc/customizer-config.php:1473
+#: ../inc/classes/term-colors.php:108 ../inc/classes/term-colors.php:149
+msgid "Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1434
+msgid "Footer Widget Titles"
+msgstr ""
+
+#: ../inc/customizer-config.php:1520
+msgid "Styling"
+msgstr ""
+
+#: ../inc/customizer-config.php:1532 ../inc/customizer-config.php:1540
+msgid "Accent Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1547 ../inc/customizer-config.php:1593
+#: ../inc/customizer-config.php:1864 ../inc/customizer-config.php:1944
+#: ../inc/customizer-config.php:2024
+msgid "Links"
+msgstr ""
+
+#: ../inc/customizer-config.php:1567 ../inc/customizer-config.php:1637
+msgid "Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:1580
+msgid "Borders"
+msgstr ""
+
+#: ../inc/customizer-config.php:1605
+msgid "Links: Hover Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1617
+msgid "Links: Hover Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:1649
+msgid "Use format: top right bottom left"
+msgstr ""
+
+#: ../inc/customizer-config.php:1651
+msgid "Padding"
+msgstr ""
+
+#: ../inc/customizer-config.php:1662
+msgid "Logo Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1677
+msgid "Site Description Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1698
+msgid "Menu Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:1710
+msgid "Menu Borders"
+msgstr ""
+
+#: ../inc/customizer-config.php:1722
+msgid "Menu Link Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1734
+msgid "Menu Link Hover Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1746
+msgid "Menu Link Hover Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:1758
+msgid "Menu Link Active Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1770
+msgid "Menu Link Active Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:1782
+msgid "Menu Dropdown Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:1794
+msgid "Menu Dropdown Borders"
+msgstr ""
+
+#: ../inc/customizer-config.php:1806
+msgid "Menu Dropdown Link Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1818
+msgid "Menu Dropdown Link Hover Color"
+msgstr ""
+
+#: ../inc/customizer-config.php:1831
+msgid "Menu Dropdown Link Hover Background"
+msgstr ""
+
+#: ../inc/customizer-config.php:1847
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/customizer-config.php:1852
+msgid "Text"
+msgstr ""
+
+#: ../inc/customizer-config.php:1876
+msgid "Links: Hover"
+msgstr ""
+
+#: ../inc/customizer-config.php:1896 ../inc/customizer-config.php:1976
+msgid "Background "
+msgstr ""
+
+#: ../inc/customizer-config.php:1908
+msgid "borders "
+msgstr ""
+
+#: ../inc/customizer-config.php:1920 ../inc/customizer-config.php:2012
+msgid "Color "
+msgstr ""
+
+#: ../inc/customizer-config.php:1932
+msgid "Widget Titles"
+msgstr ""
+
+#: ../inc/customizer-config.php:1956 ../inc/customizer-config.php:2036
+msgid "Links: Hover "
+msgstr ""
+
+#: ../inc/customizer-config.php:1971
+msgid "Footer Bottom"
+msgstr ""
+
+#: ../inc/customizer-config.php:1988 ../inc/customizer-config.php:2000
+msgid "Border "
+msgstr ""
+
+#: ../inc/customizer-config.php:2056
+msgid ""
+"If you alter any image sizes you will have to regenerate your thumbnails."
+msgstr ""
+
+#: ../inc/customizer-config.php:2068
+msgid "Image Width"
+msgstr ""
+
+#: ../inc/customizer-config.php:2077
+msgid "Image Height"
+msgstr ""
+
+#: ../inc/customizer-config.php:2086
+msgid "Crop"
+msgstr ""
+
+#: ../inc/customizer-config.php:2096
+msgid "Image Sizes"
+msgstr ""
+
+#: ../inc/customizer-config.php:2097
+msgid ""
+"By default this theme does not crop any images so you can customize your "
+"settings first and prevent unnecessary image cropping. Below you will find "
+"all the settings needed to crop the images on your site. Be sure to install "
+"a regenerate plugin so you can regenerate your thumbnails whenvever you "
+"alter these values."
+msgstr ""
+
+#: ../inc/meta-pages.php:38
+msgid "Page Settings"
+msgstr ""
+
+#: ../inc/meta-pages.php:76 ../inc/meta-posts.php:72
+msgid "Layout"
+msgstr ""
+
+#: ../inc/meta-pages.php:87
+msgid "Hide Title"
+msgstr ""
+
+#: ../inc/meta-posts.php:38
+msgid "Post Settings"
+msgstr ""
+
+#: ../inc/meta-posts.php:84
+msgid "Rating"
+msgstr ""
+
+#: ../inc/meta-posts.php:86
+msgid "Enter a number between 1-5"
+msgstr ""
+
+#: ../inc/meta-posts.php:93 ../inc/classes/widgets/video.php:26
+msgid "Video"
+msgstr ""
+
+#: ../inc/meta-posts.php:95 ../inc/meta-posts.php:104
+msgid ""
+"Enter your embed code or enter in a URL that is compatible with WordPress's "
+"built-in oEmbed function or self-hosted video function."
+msgstr ""
+
+#: ../inc/meta-posts.php:102
+msgid "Audio"
+msgstr ""
+
+#: ../inc/classes/customizer/controls.php:19
+msgid "Custom Fonts"
+msgstr ""
+
+#: ../inc/classes/customizer/controls.php:26
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../inc/classes/customizer/controls.php:36
+msgid "Google Fonts"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:56
+msgid "Image Gallery"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:82
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:139
+msgid "Remove image"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:92
+msgid "Add/Edit Images"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:120
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../inc/classes/gallery-metabox/gallery-metabox.php:122
+msgid "Add to gallery"
+msgstr ""
+
+#: ../inc/classes/widgets/about.php:25
+msgid "About"
+msgstr ""
+
+#: ../inc/classes/widgets/about.php:117
+msgid "About Me"
+msgstr ""
+
+#: ../inc/classes/widgets/about.php:124 ../inc/classes/widgets/authors.php:181
+#: ../inc/classes/widgets/contact-info.php:151
+#: ../inc/classes/widgets/facebook-page.php:121
+#: ../inc/classes/widgets/google-map.php:129
+#: ../inc/classes/widgets/instagram-grid.php:197
+#: ../inc/classes/widgets/mailchimp.php:158
+#: ../inc/classes/widgets/popular-posts.php:169
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:185
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:209
+msgid "Title"
+msgstr ""
+
+#: ../inc/classes/widgets/about.php:128
+msgid "Image URL"
+msgstr ""
+
+#: ../inc/classes/widgets/about.php:132
+#: ../inc/classes/widgets/mailchimp.php:173
+#: ../inc/classes/widgets/social.php:222
+msgid "Description:"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:24
+msgid "Authors/Contributors"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:53
+#: ../inc/classes/widgets/authors.php:152
+#: ../inc/classes/widgets/authors.php:174
+msgid "view all authors"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:166
+msgid "Authors"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:186
+msgid "Avatar Size"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:191
+msgid "Number"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:195
+#: ../inc/classes/widgets/instagram-grid.php:210
+msgid "Columns"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:210
+msgid "Show admins"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:215
+msgid "Show authors"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:220
+msgid "Show contributors"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:224
+msgid "Authors Page"
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:226
+msgid "Select your authors page if you want to add a \"see all\" link."
+msgstr ""
+
+#: ../inc/classes/widgets/authors.php:238
+msgid "View All Label"
+msgstr ""
+
+#: ../inc/classes/widgets/comments-avatar.php:24
+msgid "Comments With Avatars"
+msgstr ""
+
+#: ../inc/classes/widgets/comments-avatar.php:75
+msgid "Read Comment"
+msgstr ""
+
+#: ../inc/classes/widgets/comments-avatar.php:89
+msgid "No comments yet."
+msgstr ""
+
+#: ../inc/classes/widgets/comments-avatar.php:127
+msgid "Recent Comments"
+msgstr ""
+
+#: ../inc/classes/widgets/comments-avatar.php:137
+#: ../inc/classes/widgets/social.php:217 ../inc/classes/widgets/video.php:121
+msgid "Title:"
+msgstr ""
+
+#: ../inc/classes/widgets/comments-avatar.php:141
+msgid "Number to Show:"
+msgstr ""
+
+#: ../inc/classes/widgets/contact-info.php:24
+#: ../inc/classes/widgets/contact-info.php:139
+msgid "Contact Info"
+msgstr ""
+
+#: ../inc/classes/widgets/contact-info.php:92
+msgid "Email Us"
+msgstr ""
+
+#: ../inc/classes/widgets/contact-info.php:158
+msgid "Address"
+msgstr ""
+
+#: ../inc/classes/widgets/contact-info.php:164
+msgid "Phone Number"
+msgstr ""
+
+#: ../inc/classes/widgets/contact-info.php:170
+msgid "Fax Number"
+msgstr ""
+
+#: ../inc/classes/widgets/facebook-page.php:24
+msgid "Facebook Page"
+msgstr ""
+
+#: ../inc/classes/widgets/facebook-page.php:60
+msgid ""
+"Facebook widget does not display in the Customizer because it can slow "
+"things down."
+msgstr ""
+
+#: ../inc/classes/widgets/facebook-page.php:112
+msgid "Find Us On Facebook"
+msgstr ""
+
+#: ../inc/classes/widgets/facebook-page.php:126
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ../inc/classes/widgets/facebook-page.php:131
+msgid "Language Locale"
+msgstr ""
+
+#: ../inc/classes/widgets/google-map.php:24
+#: ../inc/classes/widgets/google-map.php:118
+msgid "Google Map"
+msgstr ""
+
+#: ../inc/classes/widgets/google-map.php:136
+#: ../inc/classes/widgets/video.php:134
+msgid "Description"
+msgstr ""
+
+#: ../inc/classes/widgets/google-map.php:143
+msgid "Embed Code"
+msgstr ""
+
+#: ../inc/classes/widgets/google-map.php:149
+msgid "Height"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:24
+#: ../inc/classes/widgets/instagram-grid.php:183
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:64
+msgid "visit profile"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:64
+msgid "View all"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:71
+msgid "Please enter an instagram username for your widget."
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:199 ../templates/login.php:146
+msgid "Username"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:201
+msgid "Size"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:203
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:204
+msgid "Small"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:205
+msgid "Large"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:206
+msgid "Original"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:223
+msgid "Number of photos"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:225
+msgid "Open links in"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:227
+msgid "Current window"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:228
+msgid "New window"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:233
+msgid "Cache Notice"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:233
+msgid ""
+"The instagram feed is refreshed every 2 hours. However, you can click the "
+"save button below to clear the transient and refresh it instantly."
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:261
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:265
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:273
+#: ../inc/classes/widgets/instagram-grid.php:291
+#: ../inc/classes/widgets/instagram-grid.php:296
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:360
+msgid "Instagram Image"
+msgstr ""
+
+#: ../inc/classes/widgets/instagram-grid.php:401
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:24
+msgid "Mailchimp Newsletter"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:48
+#: ../inc/classes/widgets/mailchimp.php:149
+msgid "Your email address"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:51
+#: ../inc/classes/widgets/mailchimp.php:151
+msgid "First name"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:52
+#: ../inc/classes/widgets/mailchimp.php:150
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:102
+msgid "Please enter your Mailchimp form action link."
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:146
+msgid "Newsletter"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:162
+msgid "Heading"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:166
+msgid "Form Action"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:169
+msgid "Learn more"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:178
+msgid "Display Name Field?"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:181
+msgid "Name Input Placeholder Text"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:185
+msgid "Email Input Placeholder Text"
+msgstr ""
+
+#: ../inc/classes/widgets/mailchimp.php:189
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/classes/widgets/popular-posts.php:24
+#: ../inc/classes/widgets/popular-posts.php:157
+msgid "Popular Posts"
+msgstr ""
+
+#: ../inc/classes/widgets/popular-posts.php:104
+msgid "Post view"
+msgstr ""
+
+#: ../inc/classes/widgets/popular-posts.php:106
+msgid "Post views"
+msgstr ""
+
+#: ../inc/classes/widgets/popular-posts.php:174
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:190
+msgid "Number to Show"
+msgstr ""
+
+#: ../inc/classes/widgets/popular-posts.php:179
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:195
+msgid "Order"
+msgstr ""
+
+#: ../inc/classes/widgets/popular-posts.php:182
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:198
+msgid "Descending"
+msgstr ""
+
+#: ../inc/classes/widgets/popular-posts.php:183
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:199
+msgid "Ascending"
+msgstr ""
+
+#: ../inc/classes/widgets/popular-posts.php:191
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:230
+msgid "All"
+msgstr ""
+
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:24
+msgid "Posts With Thumbnails"
+msgstr ""
+
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:171
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:204
+msgid "Order By"
+msgstr ""
+
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:208
+msgid "Date"
+msgstr ""
+
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:210
+msgid "Modified"
+msgstr ""
+
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:211
+msgid "Author"
+msgstr ""
+
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:213
+msgid "Comment Count"
+msgstr ""
+
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:216
+msgid "Post Views"
+msgstr ""
+
+#: ../inc/classes/widgets/recent-posts-thumbnails.php:241
+msgid "Image Size"
+msgstr ""
+
+#: ../inc/classes/widgets/social.php:117
+msgid "Social Profiles"
+msgstr ""
+
+#: ../inc/classes/widgets/social.php:206
+msgid "Follow Us"
+msgstr ""
+
+#: ../inc/classes/widgets/social.php:227
+msgid "Link Target:"
+msgstr ""
+
+#: ../inc/classes/widgets/social.php:230
+msgid "Blank"
+msgstr ""
+
+#: ../inc/classes/widgets/social.php:231
+msgid "Self"
+msgstr ""
+
+#: ../inc/classes/widgets/social.php:238
+msgid "Social Links"
+msgstr ""
+
+#: ../inc/classes/widgets/social.php:239
+msgid "Drag and drop to re-order items."
+msgstr ""
+
+#: ../inc/classes/widgets/video.php:66
+msgid "You forgot to enter a video URL."
+msgstr ""
+
+#: ../inc/classes/widgets/video.php:127
+msgid "Video URL "
+msgstr ""
+
+#: ../inc/classes/widgets/video.php:129
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: ../inc/classes/widgets/video.php:129
+msgid "Learn More"
+msgstr ""
+
+#: ../partials/layout-entry-featured.php:115 ../partials/entry/meta.php:62
+#: ../partials/post/meta.php:63 ../partials/post/related.php:139
+msgid "0 Comments"
+msgstr ""
+
+#: ../partials/layout-entry-featured.php:115 ../partials/entry/meta.php:62
+#: ../partials/post/meta.php:63 ../partials/post/related.php:139
+msgid "1 Comment"
+msgstr ""
+
+#: ../partials/layout-entry-featured.php:115 ../partials/entry/meta.php:62
+#: ../partials/post/meta.php:63 ../partials/post/related.php:139
+msgid "% Comments"
+msgstr ""
+
+#: ../partials/archives/header.php:39
+msgid "Search Results "
+msgstr ""
+
+#: ../partials/archives/header.php:43
+msgid "Posts written by"
+msgstr ""
+
+#: ../partials/archives/header.php:62
+#, php-format
+msgid "You searched for: %s"
+msgstr ""
+
+#: ../partials/archives/header.php:72
+#, php-format
+msgid "This author has written %d articles"
+msgstr ""
+
+#: ../partials/entry/content.php:19
+msgid ""
+"This post is password protected you will need a password to access the "
+"article."
+msgstr ""
+
+#: ../partials/entry/none.php:16
+msgid "There aren't any posts currently published on this site."
+msgstr ""
+
+#: ../partials/entry/none.php:20
+msgid "This author hasn't written any posts yet."
+msgstr ""
+
+#: ../partials/entry/none.php:24
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: ../partials/entry/none.php:28
+msgid "There aren't any posts currently published in this category."
+msgstr ""
+
+#: ../partials/entry/none.php:32
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr ""
+
+#: ../partials/entry/none.php:36
+msgid "There aren't any posts currently published under this tag."
+msgstr ""
+
+#: ../partials/entry/none.php:41
+msgid "Unfortunately, the page you are looking for does not exist."
+msgstr ""
+
+#: ../partials/entry/none.php:45
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: ../partials/entry/readmore.php:19
+msgid "Continue reading"
+msgstr ""
+
+#: ../partials/global/author-bio.php:39
+#, php-format
+msgid "Written by %s"
+msgstr ""
+
+#: ../partials/global/edit.php:24
+msgid "Edit This Page"
+msgstr ""
+
+#: ../partials/global/edit.php:26
+msgid "Edit This Article"
+msgstr ""
+
+#: ../partials/global/pagination.php:59
+msgid "Previous"
+msgstr ""
+
+#: ../partials/global/pagination.php:60
+msgid "Next"
+msgstr ""
+
+#: ../partials/global/pagination.php:70
+msgid "Newer Entries"
+msgstr ""
+
+#: ../partials/global/pagination.php:71
+msgid "Older Entries"
+msgstr ""
+
+#: ../partials/global/scrolltop.php:17
+msgid "Top"
+msgstr ""
+
+#: ../partials/global/search-overlay.php:19
+msgid "To search type and hit enter"
+msgstr ""
+
+#: ../partials/global/share.php:21
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../partials/global/share.php:22
+msgid "Tweet"
+msgstr ""
+
+#: ../partials/global/share.php:26
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../partials/global/share.php:27
+msgid "Share"
+msgstr ""
+
+#: ../partials/global/share.php:31
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../partials/global/share.php:32
+msgid "Pin it"
+msgstr ""
+
+#: ../partials/global/share.php:36 ../partials/global/share.php:37
+msgid "Comment"
+msgstr ""
+
+#: ../partials/global/trending.php:51
+msgid "Trending Article"
+msgstr ""
+
+#: ../partials/post/author.php:22
+msgid "Article written by"
+msgstr ""
+
+#: ../partials/post/author.php:27
+msgid "Visit Author Page"
+msgstr ""
+
+#: ../partials/post/author.php:84
+msgid "Latest from this author"
+msgstr ""
+
+#: ../partials/post/author.php:84
+msgid "view all"
+msgstr ""
+
+#: ../partials/post/navigation.php:19
+msgid "Next Article"
+msgstr ""
+
+#: ../partials/post/navigation.php:20
+msgid "Previous Article"
+msgstr ""
+
+#: ../partials/post/rating.php:25
+msgid "My rating"
+msgstr ""
+
+#: ../partials/post/rating.php:27
+msgid "out of"
+msgstr ""
+
+#: ../partials/post/related.php:86
+msgid "You May Also Like"
+msgstr ""
+
+#: ../partials/post/tags.php:23
+msgid "More Under:"
+msgstr ""
+
+#: ../templates/archives.php:34
+msgid "Latest Posts"
+msgstr ""
+
+#: ../templates/archives.php:51
+msgid "Archives by Month"
+msgstr ""
+
+#: ../templates/archives.php:56
+msgid "Archives by Category"
+msgstr ""
+
+#: ../templates/archives.php:61
+msgid "Archives by Tags"
+msgstr ""
+
+#: ../templates/authors.php:26
+msgid "Join the team"
+msgstr ""
+
+#: ../templates/authors.php:73 ../templates/authors.php:82
+msgid "Posts by"
+msgstr ""
+
+#: ../templates/authors.php:85
+msgid "articles"
+msgstr ""
+
+#: ../templates/login.php:34
+msgid "A <strong>username</strong> is required for registration."
+msgstr ""
+
+#: ../templates/login.php:36
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: ../templates/login.php:41
+msgid "An <strong>email</strong> is required for registration."
+msgstr ""
+
+#: ../templates/login.php:43
+msgid "You must enter a valid email address."
+msgstr ""
+
+#: ../templates/login.php:45
+msgid "Sorry, that email address is already used!"
+msgstr ""
+
+#: ../templates/login.php:50
+msgid "A <strong>password</strong> is required for registration."
+msgstr ""
+
+#: ../templates/login.php:55
+msgid "Please confirm your password."
+msgstr ""
+
+#: ../templates/login.php:60
+msgid "Passwords do not match."
+msgstr ""
+
+#: ../templates/login.php:101
+msgid "You are already logged in as:"
+msgstr ""
+
+#: ../templates/login.php:102
+msgid "Logout"
+msgstr ""
+
+#: ../templates/login.php:113
+msgid "Login to an account"
+msgstr ""
+
+#: ../templates/login.php:119
+msgid "Lost Password? Recover it here."
+msgstr ""
+
+#: ../templates/login.php:119
+msgid "Lost Password?"
+msgstr ""
+
+#: ../templates/login.php:129
+msgid "Registration successful. You can now log in above."
+msgstr ""
+
+#: ../templates/login.php:142
+msgid "Register for an account"
+msgstr ""
+
+#: ../templates/login.php:148
+msgid "E-mail"
+msgstr ""
+
+#: ../templates/login.php:150
+msgid "Password"
+msgstr ""
+
+#: ../templates/login.php:152
+msgid "Confirm password"
+msgstr ""
+
+#: ../templates/login.php:154 ../templates/login.php:194
+msgid "Strength indicator"
+msgstr ""
+
+#: ../templates/login.php:158
+msgid "Submit"
+msgstr ""
+
+#: ../templates/login.php:195
+msgid "Very weak"
+msgstr ""
+
+#: ../templates/login.php:196
+msgid "Weak"
+msgstr ""
+
+#: ../templates/login.php:197
+msgid "Medium"
+msgstr ""
+
+#: ../templates/login.php:198
+msgid "Strong"
+msgstr ""
+
+#: ../templates/login.php:199
+msgid "Mismatch"
+msgstr ""

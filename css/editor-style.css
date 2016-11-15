@@ -1,0 +1,57 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+# Buttons
+# Notices
+# Highlights
+# Pre tag
+
+/*------------------------------------------------------------------
+[# Theme Button]
+-------------------------------------------------------------------*/
+/*st-theme-button*/
+.st-theme-button { font-size: 11px; text-transform: uppercase; font-weight: bold; color: #222; background: #fab442; text-shadow: none; display: inline-block; padding: 0.7em 1.2em; margin: 0 2px 5px 0; transition: all 0.15s linear; -moz-transition: all 0.15s linear; -webkit-transition: all 0.15s linear; text-decoration: none; }
+.st-theme-button:hover { color: #fff; background: #000; text-decoration: none !important; }
+
+/*st-theme-button colors*/
+.st-theme-button.blue,
+.theme-button.blue { background: #3498db; color: #fff; }
+.st-theme-button.red,
+.theme-button.red { background: #d9534f; color: #fff; }
+.st-theme-button.orange,
+.theme-button.orange { background: #FE5722; color: #fff; }
+.st-theme-button.green,
+.theme-button.green { background: #5cb85c; color: #fff; }
+.st-theme-button.black,
+.theme-button.black { background: #000; color: #fff; }
+.st-theme-button.white,
+.theme-button.white { background: #fff; color: #000; }
+.st-theme-button.clean,
+.theme-button.clean { color: #585858; background: none; border: 1px solid #ccc; }
+.st-theme-button.clean:hover,
+.theme-button.clean:hover { opacity: 1; background: #f4f4f4; }
+
+/*------------------------------------------------------------------
+[# Notices]
+-------------------------------------------------------------------*/
+.st-notice { padding: 20px; margin: 0 0 20px; background: #f0f0f0; border-left: 5px solid #f0ad4e; }
+.st-info { border-left-color: #5bc0de }
+.st-info strong { color: #5bc0de }
+.st-warning { border-left-color: #d9534f }
+.st-warning strong { color: #d9534f }
+.st-success { border-left-color: #5cb85c }
+.st-success strong { color: #5cb85c }
+
+/*------------------------------------------------------------------
+[# Highlights]
+-------------------------------------------------------------------*/
+.st-text-highlight { display: inline-block; background-color: #FFF49B; color: #A5651A; padding: 0 5px; }
+
+/*------------------------------------------------------------------
+[# Pre Tag & blockquote]
+-------------------------------------------------------------------*/
+body#tinymce.wp-editor pre { background: #f9f9f9; padding: 15px 20px; margin-bottom: 30px; white-space: pre-wrap; white-space: -moz-pre-wrap; white-space: -pre-wrap; white-space: -o-pre-wrap; word-wrap: break-word; font-family: 'Verdana'; font-size: 0.929em; }
+
+body#tinymce.wp-editor blockquote { font-size: 16px; margin: 0 0 30px; position: relative; font-family: Georgia; color: #888; font-style: italic; padding-left: 20px; border-left: 3px solid #ddd; }
+body#tinymce.wp-editor blockquote.left { float: left; margin-left: 0; margin-right: 20px; text-align: right; width: 33%; }
+body#tinymce.wp-editor blockquote.right { float: right; margin-left: 20px; margin-right: 0; text-align: left; width: 33%; }
