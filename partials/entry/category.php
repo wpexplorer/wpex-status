@@ -15,7 +15,12 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 // Show only when needed
-if ( 'post' != get_post_type() || is_category() ) {
+if ( 'post' != get_post_type() ) {
+	return;
+}
+
+// Archives check
+if ( ! st_get_theme_mod( 'entry_category_archives', false ) && is_category() ) {
 	return;
 }
 

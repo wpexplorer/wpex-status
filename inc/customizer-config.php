@@ -462,6 +462,15 @@ if ( ! function_exists( 'st_customizer_config' ) ) {
 					),
 				),
 				array(
+					'id' => 'entry_category_archives',
+					'default' => false,
+					'control' => array(
+						'label' => esc_html__( 'Entry Category Tag on Archives', 'status' ),
+						'type' => 'checkbox',
+						'active_callback' =>'st_customizer_has_entry_category_tag',
+					),
+				),
+				array(
 					'id' => 'entry_category_first_only',
 					'default' => true,
 					'control' => array(
@@ -2169,6 +2178,13 @@ function st_customizer_has_related_posts() {
 }
 function st_customizer_has_entry_readmore() {
 	if ( st_get_theme_mod( 'entry_readmore', false ) ) {
+		return true;
+	} else {
+		return false;
+	}
+}
+function st_customizer_has_entry_category_tag() {
+	if ( st_get_theme_mod( 'entry_category', false ) ) {
 		return true;
 	} else {
 		return false;
